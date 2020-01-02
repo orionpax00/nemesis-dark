@@ -1,13 +1,22 @@
-# README
-## This is the README for your extension "nemesis-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Nemesis Dark
+A Minimalistic theme for dark mode lovers...😎
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Installation
+1. Download Repo.
+* ### Linux Or Mac
+```bash
+git clone https://github.com/orionpax00/nemesis-dark.git ~/.vscode/extensions
+```
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* ### Linux
+```bash
+git clone https://github.com/orionpax00/nemesis-dark.git  C:\\Users\\$(USERNAME)\\.vscode\\extensions
+```
 
-**Enjoy!**
+2. Change theme
+    * Reload Visual Studio (**CTRL+SHIFT+P**, type RELOAD,  hit Enter)
+    * Choose Theme (**CTRL+SHIFT+P**, type Color Theme, hit ENTER, 
+    Choose Nemesis Dark)
+
+## Acknowledgement
+* [DeepDark Material Theme](https://github.com/ozkanonur/vscode-deepdark-material)
