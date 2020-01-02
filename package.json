@@ -1,0 +1,21 @@
+{
+    "name": "nemesis-dark",
+    "displayName": "Nemesis Dark",
+    "description": "A theme for dark mode lovers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nemesis Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nemesis Dark-color-theme.json"
+            }
+        ]
+    }
+}
