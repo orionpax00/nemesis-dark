@@ -3,15 +3,15 @@ A Minimalistic theme for dark mode lovers...😎
 
 ## Installation
 1. Download Repo.
-* ### Linux Or Mac
-```bash
-git clone https://github.com/orionpax00/nemesis-dark.git ~/.vscode/extensions
-```
+    * **Linux Or Mac**
+    ```bash
+    git clone https://github.com/orionpax00/nemesis-dark.git ~/.vscode/extensions
+    ```
 
-* ### Linux
-```bash
-git clone https://github.com/orionpax00/nemesis-dark.git  C:\\Users\\$(USERNAME)\\.vscode\\extensions
-```
+    * **Windows**
+    ```bash
+    git clone https://github.com/orionpax00/nemesis-dark.git  C:\\Users\\$(USERNAME)\\.vscode\\extensions
+    ```
 
 2. Change theme
     * Reload Visual Studio (**CTRL+SHIFT+P**, type RELOAD,  hit Enter)
