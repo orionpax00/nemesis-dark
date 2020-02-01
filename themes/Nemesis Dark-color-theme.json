@@ -4,8 +4,8 @@
 	"colors": {
 		"activityBar.background": "#000000",
 		"activityBar.foreground": "#f5f5f5",
-		"activityBarBadge.background": "#f3002b",
-		"activityBarBadge.foreground": "#080808",
+		"activityBarBadge.background": "#ff0e56",
+		"activityBarBadge.foreground": "#ffffff",
 		"breadcrumb.activeSelectionForeground": "#d0d0d0",
 		"breadcrumb.focusForeground": "#8c8c8a",
 		"breadcrumb.foreground": "#6d6d6d",
@@ -361,7 +361,18 @@
 				"comment"
 			],
 			"settings": {
-				"foreground": "#808080"
+				"fontStyle": "italic",
+				"foreground": "#353535"
+			}
+		},
+		{
+			"name": "Python Doc Comment",
+			"scope": [
+				"string.quoted.docstring.raw.multi.python"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#353535"
 			}
 		},
 		{
@@ -375,7 +386,7 @@
 			"name": "Meta",
 			"scope": "meta",
 			"settings": {
-				"foreground": "#fff"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -437,7 +448,7 @@
 				"keyword.control"
 			],
 			"settings": {
-				"foreground": "#9575cd"
+				"foreground": "#DE2259"
 			}
 		},
 		{
@@ -446,7 +457,7 @@
 				"storage.type"
 			],
 			"settings": {
-				"foreground": "#fffb2a"
+				"foreground": "#ff668c"
 			}
 		},
 		{
@@ -464,7 +475,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#ff9431"
+				"foreground": "#A1719B"
 			}
 		},
 		{
@@ -473,7 +484,6 @@
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#8080FF",
-				"background": "#1e1e1e"
 			}
 		},
 		{
@@ -490,7 +500,6 @@
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#FF5E5E",
-				"background": "#1E1E1E"
 			}
 		},
 		{
@@ -632,7 +641,6 @@
 			"name": "diff: deleted",
 			"scope": "markup.deleted",
 			"settings": {
-				"background": "#eee8d5",
 				"fontStyle": "",
 				"foreground": "#dc322f"
 			}
@@ -641,7 +649,6 @@
 			"name": "diff: changed",
 			"scope": "markup.changed",
 			"settings": {
-				"background": "#eee8d5",
 				"fontStyle": "",
 				"foreground": "#cb4b16"
 			}
@@ -650,7 +657,6 @@
 			"name": "diff: inserted",
 			"scope": "markup.inserted",
 			"settings": {
-				"background": "#eee8d5",
 				"foreground": "#219186"
 			}
 		},
@@ -726,7 +732,6 @@
 			"name": "diff: header",
 			"scope": "meta.diff, meta.diff.header",
 			"settings": {
-				"background": "#b58900",
 				"foreground": "#E0EDDD"
 			}
 		},
@@ -745,7 +750,7 @@
 			"scope": "keyword.other.special-method.ruby",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#D9B700"
+				"foreground": "#ff0037"
 			}
 		},
 		{
@@ -929,7 +934,7 @@
 				"keyword.control.import"
 			],
 			"settings": {
-				"foreground": "#FFD14A"
+				"foreground": "#DE2259"
 			}
 		},
 		{
